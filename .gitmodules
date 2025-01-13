@@ -1,9 +1,9 @@
 [submodule "third_party/aie-rt"]
 	path = third_party/aie-rt
-	url = git@github.com:stephenneuendorffer/aie-rt.git
+	url = https://github.com/stephenneuendorffer/aie-rt
 [submodule "third_party/XRT"]
 	path = third_party/XRT
-	url = git@github.com:Xilinx/XRT.git
+	url = https://github.com/Xilinx/XRT.git
 [submodule "third_party/bootgen"]
 	path = third_party/bootgen
-	url = git@github.com:Xilinx/bootgen.git
+	url = https://github.com/Xilinx/bootgen.git
